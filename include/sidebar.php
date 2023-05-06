@@ -6,18 +6,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard</title>
 
+    <?php 
+        include 'bs.php'; 
+    ?>
+
     <link rel="stylesheet" href="../css/sidebar.css">
+    <link rel="stylesheet" href="../css/dashboard.css">
+    <link rel="stylesheet" href="../css/sales_orders.css">
     <link rel="icon" href="img/dashboard_icon.png">
-    <?php include 'bs.php'; ?>
+    
     
 </head>
 <body>
     <div class="container-fluid px-0">
         <div class="left-sidebar">
-            <div class="company-logo my-1 p-2 text-center">
-                <label for="logo">Management</label>
+            <div class="company-logo p-2 text-center">
+                <label for="logo"><h3>Management</h3></label>
             </div>
-            <div class="main-selection-form my-2 p-3">
+            <div class="main-selection-form my-5 p-3">
                 <ul>
                     <li>
                         <a href="../home/dashboard.php" class="active">Dashboard</a>
@@ -25,7 +31,7 @@
                 </ul>
                 <ul>
                     <li>
-                        <a href="../home/sales_orders.php">Sales Orders</a>
+                        <a href="../home/sales_orders.php">Sales Order</a>
                     </li>
                     <li>
                         <a href="../home/packages.php">Packages</a>

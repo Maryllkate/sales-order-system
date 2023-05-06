@@ -2,8 +2,10 @@
     include '../include/sidebar.php';
 ?>
 
-<div class="dashboard-container">
-    dashboard area
+<div id="dashboard-container">
+    <div class="navbar">
+        dashboard right row
+    </div>
 </div>
 
 
