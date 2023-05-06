@@ -1,0 +1,24 @@
+.container-fluid {
+    display: flex;
+}
+
+.left-sidebar {
+    height: 100vh;
+    width: 20vw;
+}
+
+.row-container {
+    width: 80vw;
+}
+
+.main-selection-form,
+.company-logo,
+ul li a {
+    text-decoration: none;
+    font-size: 27px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
