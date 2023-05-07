@@ -31,7 +31,7 @@
                 </ul>
                 <ul>
                     <li>
-                        <a href="../home/sales_orders.php">Sales Order</a>
+                        <a href="../home/sales-orders.php">Sales Order</a>
                     </li>
                     <li>
                         <a href="../home/packages.php">Packages</a>

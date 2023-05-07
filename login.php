@@ -1,6 +1,6 @@
 <?php
 
-include 'conn/conn.php';
+// include 'conn/conn.php';
 include 'config/query-login.php';
 
 ?>
