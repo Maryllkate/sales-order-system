@@ -28,6 +28,10 @@
             </ul>
         </div>
 
+        <div class="quotations-container">
+            quotations
+        </div>
+
 
 
 
