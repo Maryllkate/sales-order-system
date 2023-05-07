@@ -15,21 +15,21 @@
         <div class="tab-selections">
             <ul class="nav nav-tabs">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="./salesorder/quotations.php">Quotations</a>
+                    <a class="nav-link active" aria-current="page" href="#q">Quotations</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="./salesorder/create-so.php">Sale Orders</a>
+                    <a class="nav-link" href="#so">Sale Orders</a>
                 </li>
                 
                 <li class="nav-item">
-                    <a class="nav-link" href="./salesorder/shipping.php">Shipping</a>
+                    <a class="nav-link" href="#s">Shipping</a>
                 </li>
             </ul>
         </div>
 
         <div class="quotations-container">
-            quotations
+            quotations area
         </div>
 
 
