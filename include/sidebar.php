@@ -49,6 +49,11 @@
                         <a href="../home/reports.php">Reports</a>
                     </li>
                 </ul>
+                <ul>
+                    <li>
+                        <a href="../login.php">Logout</a>
+                    </li>
+                </ul>
             </div>
         </div>
     <!-- </div> this was added to the home folders -->
