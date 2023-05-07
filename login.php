@@ -37,7 +37,7 @@ include 'config/query-login.php';
                 placeholder="input password here" required>
             </div>
 
-            <button class="btn btn-primary mp-2 my-2" name="signin">sign in</button>
+            <button class="btn btn-primary mp-2 my-2 btn-signin" name="signin">sign in</button>
 
         </div>
 

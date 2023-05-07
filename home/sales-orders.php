@@ -28,7 +28,7 @@
             <div class="container-fluid">
                 <form class="d-flex p-2">
                     <input class="form-control me-1" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-primary" type="submit">Search</button>
+                    <button class="btn btn-outline-primary btn-search" type="submit">Search</button>
                 </form>
             </div>
             <div class="quotations-section-details">
