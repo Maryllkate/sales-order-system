@@ -10,9 +10,7 @@
         include 'bs.php'; 
     ?>
 
-    <link rel="stylesheet" href="../css/sidebar.css">
-    <link rel="stylesheet" href="../css/dashboard.css">
-    <link rel="stylesheet" href="../css/sales_orders.css">
+    <link rel="stylesheet" href="../css/style.css">
     <link rel="icon" href="img/dashboard_icon.png">
     
     

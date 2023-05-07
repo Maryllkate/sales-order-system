@@ -1,0 +1,58 @@
+.container {
+    height: 100vh;
+    display: flex;
+}
+
+.form-group,
+.btn {
+    width: 350px
+}
+/* sidebar */
+
+.container-fluid {
+    display: flex;
+}
+
+.left-sidebar {
+    height: 100vh;
+    width: 20vw;
+}
+
+.main-selection-form,
+.company-logo,
+ul li a {
+    text-decoration: none;
+    font-size: 27px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+/* width of the right-container */
+#dashboard-container,
+#sales-orders-container,
+#packages-container,
+#invoices-container,
+#purchase-order-container,
+#billing-container,
+#reports-container {
+    width: 80vw;
+}
+
+/* dashboard page */
+
+/* sales order page */
+
+
+/* sales order tabs */
+
+/* packages page */
+
+/* invoices page */
+
+/* purchase orders page */
+
+/* billing page */
+
+/* reports page */

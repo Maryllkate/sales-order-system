@@ -4,11 +4,7 @@
     <div id="sales-orders-container">
         <nav class="navbar navbar-light bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand text-light"><h3>SALES ORDER</h3></a>
-                    <form class="d-flex">
-                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                        <button class="btn btn-outline-primary" type="submit">Search</button>
-                    </form>
+                <a class="navbar-brand text-light"><h3>SALES ORDER</h3></a>  
             </div>
         </nav>
 
@@ -29,7 +25,15 @@
         </div>
 
         <div class="quotations-container">
-            quotations area
+            <div class="container-fluid">
+                <form class="d-flex p-2">
+                    <input class="form-control me-1" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-primary" type="submit">Search</button>
+                </form>
+            </div>
+            <div class="quotations-section-details">
+                quotations area
+            </div>
         </div>
 
 
