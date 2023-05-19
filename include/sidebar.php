@@ -51,7 +51,7 @@
                 </ul>
                 <ul>
                     <li>
-                        <a href="../login.php">Logout</a>
+                        <a href="../login.php">Logout</a> <!--insert JS modal here-->
                     </li>
                 </ul>
             </div>
